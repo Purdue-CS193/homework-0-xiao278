@@ -22,11 +22,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
- 
-**pwhop** _sucks_
 
 [Link](url) and ![Image](src)
 ```
+test: **pwhop** _sucks_
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
